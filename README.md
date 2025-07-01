@@ -1,6 +1,6 @@
 # Welcome to Void.
 
-<div align="center">
+	<div align="center">
 	<img
 		src="./src/vs/workbench/browser/parts/editor/media/slice_of_void.png"
 	 	alt="Void Welcome"
